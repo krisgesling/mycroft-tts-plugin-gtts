@@ -1,2 +1,2 @@
-gTTS==2.1.1
+gTTS==2.0.4
 gTTS-token==1.1.3
